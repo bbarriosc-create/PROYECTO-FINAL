@@ -1,0 +1,20 @@
+====== REPORTE INVENTARIO ======
+
+Codigo: 1
+Nombre: laptop
+Precio: Q6000
+Stock: 7
+Vendidos: 1
+------------------------
+Codigo: 2
+Nombre: teclado
+Precio: Q99
+Stock: 4
+Vendidos: 1
+------------------------
+Codigo: 3
+Nombre: mouse
+Precio: Q55
+Stock: 4
+Vendidos: 1
+------------------------
